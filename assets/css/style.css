@@ -1,0 +1,32 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("../images/background3.jpg");
+}
+
+.container {
+    
+}
+
+.jumbotron {
+    background-color: cornflowerblue;
+}
+
+.game-wrapper {
+    /* background-color: aqua; */
+    padding: 20px;
+}
+
+button {
+    align-content: center;
+    padding: 10px;
+    margin-left: 50%;
+    margin-top: 20px;
+}
+
+.gameContainer {
+    margin: 20px 50px;
+}
+
+img {
+    width: 500px;
+}
